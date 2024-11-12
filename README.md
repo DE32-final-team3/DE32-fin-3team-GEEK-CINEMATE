@@ -24,8 +24,8 @@
   매칭된 사용자들이 실시간으로 대화할 수 있습니다.
 
 ### 기술 스택
-프론트엔드: Flutter (Dart)
-백엔드: FastAPI, WebSocket, Kafka
-데이터 분석: Spark, Pandas, NumPy
-데이터베이스: MariaDB
-배포 및 관리: AWS EC2, Docker, Airflow
+- 프론트엔드: Flutter (Dart)
+- 백엔드: FastAPI, WebSocket, Kafka
+- 데이터 분석: Spark, Pandas, NumPy
+- 데이터베이스: MariaDB
+- 배포 및 관리: AWS EC2, Docker, Airflow
