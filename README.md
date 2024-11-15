@@ -1,4 +1,6 @@
 # [Playdata] 데이터 엔지니어링 32기 Final Project
+![image](https://velog.velcdn.com/images/s00zzang/post/42d4f804-8515-421d-b55b-b780c827bc21/image.jpg)
+
 
 ## 3팀(GEEK) Role and Responsibility
 
