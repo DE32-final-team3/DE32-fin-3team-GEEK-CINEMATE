@@ -54,11 +54,11 @@ Web Communication<br>
 <img src="https://img.shields.io/badge/Websocket-black?style=plastic&logo=socket.io&badgeColor=010101"> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white"><br>
 Data Analysis<br>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=plastic&logo=Apache Spark&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy&logoColor=white"><br>
-Datebase <br>
-<img src="https://img.shields.io/badge/MongoDB-47
-A248?style=plastic&logo=MongoDB&logoColor=white"> <br>
 Deployment and management<br>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=white"><br>
+Datebase<br>
+<img src="https://img.shields.io/badge/MongoDB-47
+A248?style=plastic&logo=MongoDB&logoColor=white"><br>
 
 ## 시스템 아키텍쳐
 <img width="920" alt="스크린샷 2024-12-18 오전 11 41 47" src="https://github.com/user-attachments/assets/ce4d938a-1760-4f7a-ab29-122adadf0065" />
