@@ -3,14 +3,18 @@
 ## 영화 취향 기반 채팅 서비스
 <br>
 
+## 프로젝트 기간
+2024년 11월 14일 ~ 2024년 12월 31일
+
+
 ## 팀 소개
-| 이름 | 역할 |
+| 이름 | 역할 | 
 |:------:|:--------:|
-| 임영인 | **PM** (Project Manager), 백엔드, 프론트|
-| 장규석 | **AC** (Agile Coach), 데이터 엔지니어링, 프론트 |
-| 안정은 | **TL** (Tech Leader), 프론트, 백엔드 |
-| 최우현 | **AA** (Application Architect), 데이터 엔지니어링 |
-| 박수진 | **GL** (Gag Leader), 프론트 |
+| 임영인 | **PM** (Project Manager) |
+| 장규석 | **AC** (Agile Coach)|
+| 안정은 | **TL** (Tech Leader)|
+| 최우현 | **AA** (Application Architect)|
+| 박수진 | **GL** (Gag Leader)|
 
 
 ##  프로젝트 개요
@@ -21,13 +25,16 @@
 
 ## 기대효과
 1. 영화 취향을 통한 새로운 관계 형성
+
 2. 개인화된 영화 추천 기능 확장 가능성
+
 3. 사용자 영화 데이터 분석을 통한 인사이트 제공
+
 4. 영화 감상의 폭을 넓히는 기회 제공
 
 
 
-### 핵심 기능
+## 핵심 기능
 1. 사용자 프로필 생성 및 취향 분석
    
    사용자가 만든 영화 큐레이터를 기반으로 영화 취향을 분석합니다.
@@ -40,12 +47,18 @@
 
    영화 취향이 비슷한 사용자들이 실시간으로 대화할 수 있습니다.
 
-### 기술 스택
-- 프론트엔드: Flutter (Dart)
-- 백엔드: FastAPI, WebSocket, Kafka
-- 데이터 분석: Spark, Pandas, NumPy
-- 데이터베이스: MongoDB
-- 배포 및 관리: AWS EC2, Docker, Airflow
+## 기술 스택
+Framework<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"><br>
+Web Communication<br>
+<img src="https://img.shields.io/badge/Websocket-black?style=plastic&logo=socket.io&badgeColor=010101"> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white"><br>
+Data Analysis<br>
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=plastic&logo=Apache Spark&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy&logoColor=white"><br>
+Datebase<br>
+<img src="https://img.shields.io/badge/MongoDB-47
+A248?style=plastic&logo=MongoDB&logoColor=white"><br>
+Deployment and management<br>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=white">
 
 ## 시스템 아키텍쳐
 <img width="920" alt="스크린샷 2024-12-18 오전 11 41 47" src="https://github.com/user-attachments/assets/ce4d938a-1760-4f7a-ab29-122adadf0065" />
