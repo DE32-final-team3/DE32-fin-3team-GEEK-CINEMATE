@@ -4,7 +4,7 @@
 ![Cinemate](https://github.com/user-attachments/assets/1d432d2d-5f6b-454a-8a7a-60ed6240896d)
 
 ## 프로젝트 기간
-2024년 11월 14일 ~ 2024년 12월 31일
+2024년 11월 14일 ~ 2025년 01월 06일
 
 
 ## 팀 소개
