@@ -8,14 +8,7 @@
 
 
 ## 팀 소개
-| 이름 | 역할 | 
-|:------:|:--------:|
-| 임영인 | **PM** (Project Manager) |
-| 장규석 | **AC** (Agile Coach)|
-| 안정은 | **TL** (Tech Leader)|
-| 최우현 | **AA** (Application Architect)|
-| 박수진 | **GL** (Gag Leader)|
-
+![TEAM-3  Profile](https://github.com/user-attachments/assets/a665e771-bf62-4943-b80b-c2e675bee74e)
 
 ##  프로젝트 개요
 사용자의 영화 취향을 분석하여 비슷한 취향을 가진 사람들을 목록화하고, 이들이 채팅을 통해 대화할 수 있는 플랫폼을 제공합니다. 사용자는 영화를 통해 공통된 관심사를 가진 사람들과 연결될 수 있습니다.
